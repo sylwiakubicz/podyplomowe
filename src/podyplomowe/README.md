@@ -5,3 +5,5 @@ Obiekty te potrafią mówić "meow", jeść i możemy przedstawić naszego zwier
 * color
 * age
 * hungry
+
+![The picture of Octocat which is smiling and looks kinda like bonifacy.](https://myoctocat.com/assets/images/base-octocat.svg)

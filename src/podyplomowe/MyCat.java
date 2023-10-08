@@ -8,6 +8,7 @@ public class MyCat {
             firstCat.age = 5;
             firstCat.hungry = true;
 
+//            Meet my cat. My cat is awesome.
             System.out.println(firstCat.name + " say hi to our new friend.");
             firstCat.meow();
             firstCat.meetMyCat();
